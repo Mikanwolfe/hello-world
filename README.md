@@ -1,9 +1,9 @@
 # hello-world
 hello world guide
 It turns out that markdown has some nice syntax.
-line  break?
 
 _italics_ **bold** `monospace`
+
 like, quora:
 ---
 *bullet list 1
