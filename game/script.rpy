@@ -22,7 +22,7 @@ label start:
     # images directory to show it.
 
     scene bg library
-    with fade
+    with dissolve
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -36,6 +36,10 @@ label start:
     e "You've created a new Ren'Py game."
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
+    
+    e "Some Major changes should've happened"
+    
+    e "though this is more of a test of whether or not I can github"
 
     # This ends the game.
 
